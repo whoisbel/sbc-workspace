@@ -1,0 +1,13 @@
+/root/Desktop/sbc-workspace/hello_solana/target/sbf-solana-solana/release/deps/borsh-006fdf57ce241093.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/hint.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema_helpers.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/helpers.rs
+
+/root/Desktop/sbc-workspace/hello_solana/target/sbf-solana-solana/release/deps/libborsh-006fdf57ce241093.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/hint.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema_helpers.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/helpers.rs
+
+/root/Desktop/sbc-workspace/hello_solana/target/sbf-solana-solana/release/deps/borsh-006fdf57ce241093.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/hint.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema_helpers.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/helpers.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/de/hint.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/schema_helpers.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.10.3/src/ser/helpers.rs:

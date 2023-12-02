@@ -1,0 +1,13 @@
+/root/Desktop/sbc-workspace/hello_solana/target/debug/deps/libdigest-b666b8d295871a9e.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/digest.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/dyn_digest.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/errors.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/fixed.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/variable.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/xof.rs
+
+/root/Desktop/sbc-workspace/hello_solana/target/debug/deps/libdigest-b666b8d295871a9e.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/digest.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/dyn_digest.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/errors.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/fixed.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/variable.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/xof.rs
+
+/root/Desktop/sbc-workspace/hello_solana/target/debug/deps/digest-b666b8d295871a9e.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/digest.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/dyn_digest.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/errors.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/fixed.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/variable.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/xof.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/digest.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/dyn_digest.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/errors.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/fixed.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/variable.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.9.0/src/xof.rs:

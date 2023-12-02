@@ -1,0 +1,14 @@
+/root/Desktop/sbc-workspace/hello_solana/target/release/deps/semver-f39152ec722d3e14.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/backport.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/display.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/eval.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/identifier.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/parse.rs
+
+/root/Desktop/sbc-workspace/hello_solana/target/release/deps/libsemver-f39152ec722d3e14.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/backport.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/display.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/eval.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/identifier.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/parse.rs
+
+/root/Desktop/sbc-workspace/hello_solana/target/release/deps/semver-f39152ec722d3e14.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/backport.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/display.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/eval.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/identifier.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/impls.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/parse.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/backport.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/display.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/error.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/eval.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/identifier.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/impls.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.20/src/parse.rs:
